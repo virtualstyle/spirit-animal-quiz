@@ -1,0 +1,5 @@
+node_modules/
+dist/
+src/__snapshots__
+test/
+*\.test\.*
